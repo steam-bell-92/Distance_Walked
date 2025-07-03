@@ -27,14 +27,6 @@ The models are compared using:
 
 ---
 
-## 🚀 Future Scope
-This project may soon be integrated into a **web app or website**, where users can:
-- Enter their health stats
-- Get distance predictions
-- Visualize trends over time
-
----
-
 ## 🛠 Tech Stack
 - Python
 - pandas, numpy
@@ -59,6 +51,12 @@ Distance_Walked/
 ![Model Metrics Comparison](model_metrics_comparison.png)
 
 ---
+
+## 🚀 Future Scope
+This project may soon be integrated into a **web app or website**, where users can:
+- Enter their health stats
+- Get distance predictions
+- Visualize trends over time
 
 ---
 

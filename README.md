@@ -54,5 +54,13 @@ Distance_Walked/
 
 ---
 
+### 🔽 Model Performance Comparison
+
+![Model Metrics Comparison](model_metrics_comparison.png)
+
+---
+
+---
+
 ## 👤 Author
 Anuj Kulkarni - aka - steam-bell-92

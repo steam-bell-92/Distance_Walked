@@ -6,17 +6,6 @@ The dataset was sourced from Kaggle and **manually edited** to suit the predicti
 
 ---
 
-## 📁 Features Used
-- Daily Steps
-- Physical Activity Level
-- Sleep Duration
-- Stress Level
-- Age
-- Gender
-- Other health-related metrics
-
----
-
 ## 🔍 Models Implemented
 1. **Linear Regression**
 2. **Support Vector Regression (SVR)**

@@ -30,11 +30,11 @@ The models are compared using:
 ---
 
 ## 📊 Visuals Included
-- 📉 **Histogram**: Distribution of Distance Walked (km)
-- 🔥 **Correlation Matrix**: Heatmap of numeric feature relationships
-- 🌀 **Pairplot**: Pairwise relationships between core health metrics
-- 🎯 **Scatter Plots**: Actual vs Predicted Distance Walked (for all 3 models)
-- 📊 **Bar Plot Comparison**: Model performance comparison (R², MAE, RMSE)
+- **Histogram**: Distribution of Distance Walked (km)
+- **Correlation Matrix**: Heatmap of numeric feature relationships
+- **Pairplot**: Pairwise relationships between core health metrics
+- **Scatter Plots**: Actual vs Predicted Distance Walked (for all 3 models)
+- **Bar Plot Comparison**: Model performance comparison (R², MAE, RMSE)
 
 ---
 

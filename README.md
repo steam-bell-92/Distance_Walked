@@ -47,9 +47,9 @@ This project may soon be integrated into a **web app or website**, where users c
 ## 📂 File Structure
 ```
 Distance_Walked/
-├── Distance.ipynb                   # Main notebook with full ML workflow
-├── Health_dataset.csv               # Cleaned and customized dataset
-└── README.md                        # This file !!
+├── Distance.ipynb                   🔹 Main notebook with full ML workflow
+├── Health_dataset.csv               🔹 Cleaned and customized dataset
+└── README.md                        🔹 This file !!
 ```
 
 ---

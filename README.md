@@ -42,10 +42,17 @@ This project may soon be integrated into a **web app or website**, where users c
 - matplotlib, seaborn
 - Jupyter Notebook
 
+---
+
 ## 📂 File Structure
 ```
-Distance_Walked
+Distance_Walked/
 ├── Distance.ipynb                   # Main notebook with full ML workflow
 ├── Health_dataset.csv               # Cleaned and customized dataset
 └── README.md                        # This file !!
 ```
+
+---
+
+## 👤 Author
+Anuj Kulkarni - aka - steam-bell-92

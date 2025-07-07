@@ -55,7 +55,7 @@ Distance_Walked/
 ## 🚀 Future Scope
 This project may soon be integrated into a **web app or website**, where users can:
 - Enter their health stats
-- Get distance predictions
+- Get distance walked predictions
 - Visualize trends over time
 
 ---

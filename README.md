@@ -39,7 +39,8 @@ The models are compared using:
 ## 📂 File Structure
 ```
 Distance_Walked/
-├── Distance.ipynb                   🔹 Main notebook with ML code
+├── Distance.ipynb                   🔹 Main notebook with ML Workflow
+├── Distance.py                      🔹 Python code of same ML Workflow
 ├── Health_dataset.csv               🔹 Cleaned and customized dataset (from: kaggle)
 └── README.md                        🔹 This file !!
 ```

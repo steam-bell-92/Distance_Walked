@@ -63,3 +63,5 @@ This project may soon be integrated into a **web app or website**, where users c
 
 ## 👤 Author
 Anuj Kulkarni - aka - steam-bell-92
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)

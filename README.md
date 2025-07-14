@@ -42,6 +42,7 @@ Distance_Walked/
 ├── Distance.ipynb                   🔹 Main notebook with ML Workflow
 ├── Distance.py                      🔹 Python code of same ML Workflow
 ├── Health_dataset.csv               🔹 Cleaned and customized dataset (from: kaggle)
+├── LICENSE                          🔹 MIT License
 └── README.md                        🔹 This file !!
 ```
 
